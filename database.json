@@ -1,14 +1,10 @@
-[
-  {
-    "name": "ultra",
-    "password": "Dzaki123",
-    "key": "147258",
-    "phone": "6281337324100"
-  },
-  {
-    "name": "ultrav2",
-    "password": "Dzaki098",
-    "key": "147258",
-    "phone": "6281459124126"
-  }
-]
+{
+  "users": [
+    {
+      "number": "6281337324100",
+      "name": "UltraHoshop",
+      "password": "Dzaki123",
+      "key": "147258"
+    }
+  ]
+}
